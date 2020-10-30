@@ -15,6 +15,8 @@ Otto is an interactive robot that anyone can make and customize. Children learn 
 
 **Own Website:** [https://www.ottodiy.com](https://www.ottodiy.com "https://www.ottodiy.com")
 
+**Wikifactory:** [https://wikifactory.com/+OttoDIY/otto-diy](https://wikifactory.com/+OttoDIY/otto-diy "https://wikifactory.com/+OttoDIY/otto-diy")
+
 ### Education
 
 This robot has become a staple in the industry because it is an affordable product that is rich in education. Families and hobbyists around the world can improve their critical thinking, meta-learning and growth-mindset.
