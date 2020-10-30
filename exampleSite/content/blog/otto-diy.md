@@ -1,6 +1,6 @@
 +++
 author = ["Camilo Parra Palacio"]
-categories = ["Open Call", "Product"]
+categories = ["Winning Project", "Open Call", "Product"]
 date = 2020-10-21T23:00:00Z
 description = "Otto is an interactive robot that anyone can make and customize. Children learn the basics of robotics by building and programming their own robot that later on they can redesign, modify and remix."
 image = "/images/otto.jpg"
