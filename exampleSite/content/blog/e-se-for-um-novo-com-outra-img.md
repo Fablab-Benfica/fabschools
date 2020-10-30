@@ -7,6 +7,7 @@ author:
 categories:
 - Product
 tags:
+- open call
 - coding
 - laser cutting
 - electronics
