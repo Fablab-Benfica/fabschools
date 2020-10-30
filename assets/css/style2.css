@@ -38,6 +38,10 @@ hr {
     color: black;
 }
 
+.color-accent, .color-accent-hover:focus, .color-accent-hover:hover {
+    color: black;
+}
+
 #site-header,
 .entry-header,
 #site-footer,
