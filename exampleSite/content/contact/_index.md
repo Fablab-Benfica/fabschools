@@ -4,8 +4,6 @@ bg_image: https://www.eselx.ipl.pt/sites/default/files/media/2020/banner_site_dr
 description: This is meta description
 
 ---
-of Lisbon (IPL).
-
 Escola Superior de Educação de Lisboa  
 Campus de Benfica do IPL  
 1549-003 Lisboa
