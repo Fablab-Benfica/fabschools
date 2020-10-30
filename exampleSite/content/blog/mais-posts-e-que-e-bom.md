@@ -1,6 +1,6 @@
 ---
 title: Ask The Checkers
-date: 2020-03-14T15:40:24.000+06:00
+date: 2020-06-30T08:40:24+00:00
 image: "/images/ask-the-checkers.jpg"
 author:
 - Mileidy Martins
