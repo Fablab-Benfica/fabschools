@@ -1,21 +1,45 @@
-+++
-author = []
-categories = []
-date = 2020-10-05T23:00:00Z
-description = "I'm baby gluten-free raclette activated charcoal biodiesel, microdosing pinterest vaporware sartorial edison bulb shabby chic plaid chartreuse kogi. Quin"
-image = "/images/2020-square-1.png"
-tags = ["tagscomAcÉnto"]
-title = "E se for um novo com Outra Img?"
+---
+title: Eyebrow Control Pinball
+date: 2020-08-28T23:00:00.000+00:00
+image: "/images/eyebrow-control-pinball.jpg"
+author:
+- Joseph Lyons
+categories:
+- Product
+tags:
+- coding
+- laser cutting
+- electronics
+description: Eyebrow Controlled Pinball teaches and demonstrates through making the
+  possibilities of computer & object interaction and hopes to inspire the younger
+  generation to create interactive technology.
 
-+++
-# baby gluten-free raclette
+---
+Eyebrow Controlled Pinball teaches and demonstrates through making the possibilities of computer & object interaction and hopes to inspire the younger generation to create interactive technology.
 
-I'm baby gluten-free raclette activated charcoal biodiesel, microdosing pinterest vaporware sartorial edison bulb shabby chic plaid chartreuse kogi. Quinoa pok pok whatever lumbersexual master cleanse +1 listicle synth cred. Pour-over meh gentrify, sriracha portland kombucha tote bag. Master cleanse intelligentsia af hell of, cronut cloud bread sriracha fingerstache pok pok yuccie cold-pressed. Woke waistcoat vegan fam distillery yr everyday carry.
+### Links
 
-### kinfolk taiyaki
+**Wikifactory:** [https://wikifactory.com/@josephlyons/ebc-pinball](https://wikifactory.com/@josephlyons/ebc-pinball "https://wikifactory.com/@josephlyons/ebc-pinball")
 
-![](https://live.staticflickr.com/6158/6163686018_c9410cf95c.jpg)
+### Education
 
-Mumblecore hammock craft beer mustache, edison bulb green juice occupy vegan farm-to-table kale chips hot chicken vape. Chillwave taiyaki brooklyn vice. Offal meh portland, fanny pack pok pok knausgaard PBR&B mlkshk post-ironic skateboard. Art party chicharrones kinfolk taiyaki, pork belly dreamcatcher truffaut vinyl tilde. Gochujang farm-to-table seitan jianbing, hexagon tumeric trust fund tousled blue bottle irony asymmetrical kale chips authentic.
+Eyebrow Controlled Pinball is an exploration into how we can incorporate facial recognition & landmarking technology into real life objects. It is an exploratory project that triesto reach into an unknown area of user-product interaction. Introducing this exploratory mindset to children at a young age encourages them to use their imagination when developing new ideas.
 
-Dummy text? More like dummy thicc text, amirite?
+### Sustainability
+
+The project is an assembly of wooden parts, an acrylic sheet and electronic components that may be used for other projects as well. All the materials may be bought locally.
+
+#### SDG Profile (selected SDG’s)
+
+* 4 - Quality Education
+* 9 - Industry Innovation and Infrastructure
+
+### Openness
+
+All files are available online. Wikifactory hosts the plans necessary to build and code the product.
+
+### Ecosystem
+
+The product itself paired with a guided lesson from an educator/teacher aims to help children to develop this kind of person/object thinking, making their minds think about how they interact with objects and encouraging them to create 'expressive new interactions with the world around them'.
+
+All the parts can be prepared at a FabLab and assembled together anywhere else.
