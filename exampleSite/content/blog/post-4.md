@@ -1,6 +1,6 @@
 ---
 title: Fabstory
-date: 2020-03-14T15:40:24.000+06:00
+date: 2020-09-20T08:40:24+00:00
 image: "/images/fabstory-square.jpg"
 author:
 - Rodrigo Gamboa
