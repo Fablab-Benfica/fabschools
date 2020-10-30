@@ -34,6 +34,10 @@ input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-bloc
     font-family: "Work Sans", sans-serif;
 }
 
+hr {
+    color: black;
+}
+
 #site-header,
 .entry-header,
 #site-footer,
