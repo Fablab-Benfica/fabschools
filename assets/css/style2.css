@@ -42,31 +42,13 @@ hr {
     color: black;
 }
 
-.menu-modal.active .menu-modal-inner {
-    opacity: .7;
-    transform: translateX(0);
-    transition-timing-function: ease-out;
-}
-
-.menu-modal-inner {
-    box-shadow: 0 0 2rem 0 rgba(0,0,0,.1);
-    opacity: 0;
-    padding: 0;
-    transform: translateX(20rem);
-    transition: transform .2s ease-in,opacity .2s ease-in;
-    transition-timing-function: ease-in, ease-in;
-    width: 30rem;
+.menu-modal {
+    background: #b4c3ca;
 }
 
 .menu-modal-inner {
     background: #b4c3ca;
-    display: flex;
-    justify-content: stretch;
-    overflow: auto;
-    -ms-overflow-style: auto;
-    width: 100%;
 }
-
 
 
 #site-header,
