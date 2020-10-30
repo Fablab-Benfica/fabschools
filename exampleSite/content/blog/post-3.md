@@ -1,7 +1,7 @@
 +++
 author = ["Fernando Daguanno"]
 categories = ["Fabschools Research", "Product"]
-date = 2020-07-28T23:00:00Z
+date = 2020-09-24T23:00:00Z
 description = "Alquimétricos is a really broad project and is interesting for multiple age groups as it can be explored in more and more complex ways and scales. Adaptable to several contexts it is designed to be used in schools as well as community activities or workshops."
 image = "/images/simplealquim.jpg"
 tags = ["laser cutting", "handcraft"]
