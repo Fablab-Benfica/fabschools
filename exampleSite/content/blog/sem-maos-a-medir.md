@@ -3,7 +3,7 @@ author = ["Amaranta López Cobano", "Mariano Velamazan"]
 categories = ["Fabschools Research", "Open Call", "Product"]
 date = 2020-07-30T08:40:24Z
 description = "Bloxes is a cardboard building system for children to create their own constructions: a child would say \"bigger stuff\", things they can go inside, bigger than any other construction toy set they are used to."
-image = "/images/bloxes-square.png"
+image = "/images/bloxes-square-copia.png"
 tags = ["laser cutting"]
 title = "Bloxes"
 
