@@ -1,18 +1,51 @@
 ---
-title: "Works and Days"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-1.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["Working days"]
-tags: ["work", "day"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: ANPRINO
+date: 2020-03-14T15:40:24.000+06:00
+image: "/images/anprino-1-square.jpg"
+author:
+- ANPRI
+- Artur Coelho
+- Lab Aberto
+categories: []
+tags:
+- Open Call
+- 3D Printing
+- Electronics
+- Coding
+description: ANPRINO is a Portuguese open-source Robot that is designed to bring the
+  basics of robotics and digital fabrication to schools. Different sensors can be
+  mounted and programmed according to the objectives of the lesson and to the age
+  of the students. This lesson combines the potential of ANPRINO a light painting
+  technique used on photography.
+
 ---
+ANPRINO is a Portuguese open-source Robot that is designed to bring the basics of robotics and digital fabrication to schools. Different sensors can be mounted and programmed according to the objectives of the lesson and to the age of the students. This lesson combines the potential of ANPRINO a light painting technique used on photography.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+### Links
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+**Own Website:** [http://www.anpri.pt/anprino/](http://www.anpri.pt/anprino/ "http://www.anpri.pt/anprino/")
+
+**Scopes-DF:** [https://www.scopesdf.org/scopesdf_lesson/anprino-light-painter/](https://www.scopesdf.org/scopesdf_lesson/anprino-light-painter/ "https://www.scopesdf.org/scopesdf_lesson/anprino-light-painter/")
+
+### Education
+
+Education is a key asset to train successful future innovators.
+
+Children will learn about coding, robotics and arts while using mobile devices in educational settings. Learn about photography: framing, white balance, temperature, film sensibility, exposure, shutter speed.
+
+### Sustainability
+
+The project uses a lot of electronic components that can be used in other projects.
+
+#### SDG Profile (selected SDG’s)
+
+* 4 - Quality Education
+* 9 - Industry Innovation and Infrastructure
+
+### Openness
+
+All the files and plans are available online and the community is encouraged to collaborate and adapt to their own necessities.
+
+### Ecosystem
+
+Children can build, code and photograph their robot. At school, teachers can use this project to teach and enable colaborations between subjects (arts and ICT).Parents: can be co-creators at home and encourage the exploration of the relation of creativity with mobile devices.
