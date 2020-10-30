@@ -1,10 +1,14 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Contact
+bg_image: https://www.eselx.ipl.pt/sites/default/files/media/2020/banner_site_dro-08.jpg
+description: Fablab Benfica is part of the School of Education from the Polytechnic
+  of Lisbon (IPL).
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+Fablab Benfica is part of the School of Education from the Polytechnic of Lisbon (IPL).
+
+Escola Superior de Educação de Lisboa  
+Campus de Benfica do IPL   
+1549-003 Lisboa
+
+Fabschools is a set of Activitites of the [Distributed Design Platform](https://distributeddesign.eu), run by IPL.
