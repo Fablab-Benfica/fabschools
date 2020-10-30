@@ -4,7 +4,7 @@ categories = ["Fabschools Research", "Open Call", "Product"]
 date = 2020-08-29T23:00:00Z
 description = "Numblers is a numerals system that helps children aged between 5 and 7 to get number sense and understand the properties and operations with numbers in a physical and visual way."
 image = "/images/numblers-square.jpg"
-tags = ["craft", "math"]
+tags = ["handcraft", "math"]
 title = "Numblers"
 
 +++
