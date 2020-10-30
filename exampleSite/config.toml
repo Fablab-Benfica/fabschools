@@ -32,15 +32,15 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "Announcing ‘Making Education Makers at Home’ Open Call Selected Projects"
+image = "/images/530488_774068.jpeg"
 [params.blog]
 heading = "The Fabschools Catalog is Fablab Benfica Initiative. It is a Distributed Design Platform (Creative Europe) Activity. Some of the collected works were submitted by its authors or collected by the FLB Research Team."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-enable = true
+enable = false
 title = "Contact us for more information."
 [params.cookies]
 enable = true
