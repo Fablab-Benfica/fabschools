@@ -3,7 +3,6 @@ author = ["Admin"]
 categories = ["tour"]
 date = 2020-03-14T09:40:24Z
 description = "This is meta description"
-draft = true
 image = "images/2020-three-quarters-4.png"
 tags = ["tour", "visit"]
 title = "mais posts é que é Bom!"
