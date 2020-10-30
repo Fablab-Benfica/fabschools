@@ -3,7 +3,6 @@ author = ["Alex Kimber"]
 categories = ["Product", "Open Call"]
 date = 2020-08-14T23:00:00Z
 description = "The Tension Chair is a stool that utilises the mechanical principle of tensegrity to create the illusion of a floating seat. "
-draft = true
 image = "/images/tension-chair-square.jpg"
 tags = ["cnc"]
 title = "Tension Chair"
