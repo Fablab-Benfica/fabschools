@@ -33,7 +33,7 @@ author = "Themefisher"
 description = "This is meta description"
 [params.banner]
 heading = "Announcing ‘Making Education Makers at Home’ Open Call Selected Projects"
-image = "/images/530488_774068.jpeg"
+image = "https://res.cloudinary.com/dbshcjrt3/image/upload/w_2400,h_760,c_fill,g_auto,q_auto/wikifactory-prod.uploads/420/inbound8412497604572328562_-_johnblaze_smith-5e65c.jpg"
 [params.blog]
 heading = "The Fabschools Catalog is Fablab Benfica Initiative. It is a Distributed Design Platform (Creative Europe) Activity. Some of the collected works were submitted by its authors or collected by the FLB Research Team."
 [params.call_to_action]
