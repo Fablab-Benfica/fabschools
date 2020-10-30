@@ -13,17 +13,17 @@ unsafe = true
 [menu]
 desktop = []
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 3
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
