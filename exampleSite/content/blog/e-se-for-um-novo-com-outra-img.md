@@ -5,9 +5,9 @@ image: "/images/eyebrow-control-pinball.jpg"
 author:
 - Joseph Lyons
 categories:
+- Open Call
 - Product
 tags:
-- open call
 - coding
 - laser cutting
 - electronics
