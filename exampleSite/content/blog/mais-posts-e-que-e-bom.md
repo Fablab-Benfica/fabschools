@@ -2,8 +2,10 @@
 title: Ask The Checkers
 date: 2020-03-14T15:40:24.000+06:00
 image: "/images/ask-the-checkers.jpg"
-author: []
-categories: []
+author:
+- Mileidy Martins
+categories:
+- Product
 tage:
 - tags
 description: Kids are generally uncomfortable when they are put around other new kids
