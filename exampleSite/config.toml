@@ -15,6 +15,10 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "https://fabschools.pt"
+name = "Open Call Archive"
+weight = ""
+[[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
@@ -30,10 +34,6 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
