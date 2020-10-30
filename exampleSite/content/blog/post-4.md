@@ -4,9 +4,10 @@ date: 2020-03-14T15:40:24.000+06:00
 image: "/images/fabstory-square.jpg"
 author:
 - Rodrigo Gamboa
-categories: []
+categories:
+- Open Call
+- Lesson
 tags:
-- open call
 - laser cutting
 description: Fabstory is a digital fabrication lesson and kit for storytelling in
   the classroom.

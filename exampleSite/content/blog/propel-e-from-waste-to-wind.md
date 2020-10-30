@@ -1,10 +1,10 @@
 +++
 author = ["Bram Peirs"]
-categories = ["Product"]
+categories = ["Open Call", "Product"]
 date = 2020-09-09T23:00:00Z
 description = "Propel-E is 3D printable wind turbine. It can be made with easy to find parts and is completely open-source.With it's maximum power output of 50W, it proves that real power can be made with a much smaller carbon footprint than other windturbines of similar size. "
 image = "/images/from-waste-to-wind-square.jpg"
-tags = ["electronics", "3D printing", "open call"]
+tags = ["electronics", "3D printing"]
 title = "Propel-E From Waste to Wind"
 
 +++

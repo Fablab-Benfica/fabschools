@@ -5,6 +5,7 @@ image: "/images/ask-the-checkers.jpg"
 author:
 - Mileidy Martins
 categories:
+- Open Call
 - Product
 tage:
 - tags
@@ -14,7 +15,6 @@ description: Kids are generally uncomfortable when they are put around other new
   they probably played before.  This activity works memory, communication and keeps
   the child focused.
 tags:
-- open call
 - laser cutting
 
 ---

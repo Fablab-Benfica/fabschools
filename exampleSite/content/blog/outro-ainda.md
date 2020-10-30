@@ -6,11 +6,10 @@ author:
 - " Sjoerd Hendriks"
 - Mafalda Gamboa
 categories:
+- Open Call
 - Product
 tags:
 - laser cutting
-- open call
-- ''
 description: Hatch is a DIY personalised charging dock for your phone designed to
   help you and your classmates stay focused while studying. The design consists of
   two parts, a phone case and a companion app.
