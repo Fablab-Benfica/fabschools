@@ -27,8 +27,8 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Fablab Benfica"
+description = "Fabschools is a set of activities embedded in the EU Creative Europe Distributed Design Platform. Its a research process aimed at identifying, cataloguing, testing and deploying educational distributed design proposals of lessons and products."
 [params.banner]
 heading = "Announcing ‘Making Education Makers at Home’ Open Call Selected Projects"
 image = "https://res.cloudinary.com/dbshcjrt3/image/upload/w_2400,h_760,c_fill,g_auto,q_auto/wikifactory-prod.uploads/420/inbound8412497604572328562_-_johnblaze_smith-5e65c.jpg"
