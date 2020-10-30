@@ -28,7 +28,8 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
-input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button, .entry-content li, .widget_text {
+input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button, .entry-content li,
+.widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
     font-weight: 300;
     font-family: "Work Sans", sans-serif;
 }
