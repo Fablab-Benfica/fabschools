@@ -6,12 +6,13 @@ author:
 - ANPRI
 - Artur Coelho
 - Lab Aberto
-categories: []
+categories:
+- Product
 tags:
-- Open Call
-- 3D Printing
-- Electronics
-- Coding
+- electronics
+- coding
+- 3d printing
+- open call
 description: ANPRINO is a Portuguese open-source Robot that is designed to bring the
   basics of robotics and digital fabrication to schools. Different sensors can be
   mounted and programmed according to the objectives of the lesson and to the age
