@@ -3,7 +3,6 @@ author = []
 categories = ["Open Call", "Lesson"]
 date = 2020-10-20T23:00:00Z
 description = "POWAR is a DIY, open source climate simulation box for kids to build at home or school, and experiment about how weather and climate change affects the plants we grow nowadays, in different weather conditions. "
-draft = true
 image = "/images/powar-square.jpg"
 tags = ["Research", "Experiment", "Coding"]
 title = "POWAR Farmi Kit"
