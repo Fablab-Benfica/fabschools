@@ -1,7 +1,7 @@
 baseURL = "https://fabschoolscat.netlify.app"
 disableLanguages = []
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-GN0NB9HJWR"
 languageCode = "en-us"
 languageName = "En"
 paginate = "12"
@@ -10,6 +10,10 @@ theme = "twentytwenty"
 title = "Fabschools"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.desktop]]
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
