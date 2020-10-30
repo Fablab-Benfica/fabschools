@@ -10,10 +10,8 @@ theme = "twentytwenty"
 title = "Fabschools"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
+[menu]
+desktop = []
 [[menu.main]]
 URL = "contact"
 name = "Contact"
