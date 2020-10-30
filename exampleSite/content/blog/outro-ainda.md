@@ -3,7 +3,6 @@ author = ["Admin"]
 categories = ["lifestyle"]
 date = 2020-03-14T09:40:24Z
 description = "This is meta description"
-draft = true
 image = "images/2020-three-quarters-2.png"
 tags = ["lifestyle", "fashion"]
 title = "Outro ainda"
