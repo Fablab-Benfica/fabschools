@@ -10,20 +10,22 @@ theme = "twentytwenty"
 title = "Fabschools"
 [markup.goldmark.renderer]
 unsafe = true
-[menu]
-desktop = []
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+name = "Open Call 2020"
+url = "https://call2020.fabschools.pt/"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
