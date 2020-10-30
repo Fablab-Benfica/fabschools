@@ -42,6 +42,15 @@ hr {
     color: black;
 }
 
+.menu-modal.active .menu-modal-inner {
+    opacity: .8;
+}
+
+.menu-modal-inner {
+    width: 30rem;
+    background: #b4c3ca;
+}
+
 #site-header,
 .entry-header,
 #site-footer,
@@ -58,7 +67,7 @@ hr {
 a:hover{
 
     color:#55676b;
-    
+
 }
 
 button, .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-file__button, input[type="button"], input[type="reset"], input[type="submit"] {
