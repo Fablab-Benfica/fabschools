@@ -3,7 +3,6 @@ author = ["José Gonzalez Martinez "]
 categories = ["FabLab Benfica Research", "Open Call"]
 date = 2020-07-04T23:00:00Z
 description = "CALEIDUINO is a sound interactive digital kaleidoscope based on Arduino. CALEIDUINO is a game, an object of art/artistic object and a tool to understand electronics and programming in a creative and entertaining way."
-draft = true
 image = "/images/caleiduino-square.jpg"
 tags = ["Laser cutting", "Arduino", "Electronics", "Coding"]
 title = "Caleiduino"
