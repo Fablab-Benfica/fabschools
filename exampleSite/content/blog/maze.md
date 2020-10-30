@@ -3,7 +3,6 @@ author = ["Barbara Szoke"]
 categories = ["Product"]
 date = 2020-08-21T23:00:00Z
 description = "The project MAZE is an integrating toy that experiments getting together both healthy and disabled children from a very early age (4-10 years old), providing them the same playing experience and making no differentiation between them."
-draft = true
 image = "/images/dsc_1898-square.jpg"
 tags = ["3d printing", "vinyl cutting", "cnc", "fablab benfica research"]
 title = "MAZE"
