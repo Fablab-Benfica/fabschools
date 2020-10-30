@@ -43,7 +43,7 @@ description = "This is meta description"
 heading = "The New UMoMA Opens its Doors"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "The Fabschools Catalog is Fablab Benfica Initiative. It is a Distributed Design Platform (Creative Europe) Activity. Some of the collected works were submitted by its authors or collected by the FLB Research Team."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
