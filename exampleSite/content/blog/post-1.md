@@ -1,6 +1,6 @@
 ---
-title: ANPRINO
-date: 2020-07-10T08:40:24+00:00
+title: Anprino
+date: 2020-07-10T08:40:24.000+00:00
 image: "/images/anprino-1-square.jpg"
 author:
 - ANPRI
