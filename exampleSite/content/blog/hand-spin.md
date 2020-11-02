@@ -3,7 +3,6 @@ author = ["Rafael Sol"]
 categories = ["Open Call", "Lesson"]
 date = 2020-06-22T23:00:00Z
 description = "Latin ancient toy remixed for 3D printing."
-draft = true
 image = "/images/hand_spin_square.jpg"
 tags = ["3D Printing"]
 title = "Hand Spin"
