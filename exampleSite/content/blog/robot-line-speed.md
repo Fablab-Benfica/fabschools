@@ -3,7 +3,6 @@ author = ["FabLabBG"]
 categories = ["Project", "Fabschools Research"]
 date = 2020-06-24T23:00:00Z
 description = "In this project you will learn how to build a robot that is capable of following back lines using Arduino."
-draft = true
 image = "/images/robot_line_speed_square.jpg"
 tags = ["arduino", "coding", "electronics", "laser cutting"]
 title = "Robot Line Speed"
