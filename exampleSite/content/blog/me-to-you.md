@@ -1,5 +1,5 @@
 +++
-author = ["Ben Ronnie"]
+author = ["The Other Today", "Ben Ronnie"]
 categories = ["Fabschools Research", "Product"]
 date = 2020-08-06T23:00:00Z
 description = "By using our spare clothes we can create an object to stand in front of us when we cannot be together. Using any item of clothing to create casing and stuffing, we can gift our loved ones with a pillow that has a familiar smell and touch. Using simple tools and skills, it can be recreated almost anywhere."
