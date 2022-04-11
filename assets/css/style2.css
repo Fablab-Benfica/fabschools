@@ -97,4 +97,14 @@ button, .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-
   }
 
 
+  .footer-top {
+    border-bottom: .3rem solid #2F2795;
+  }
+
+.footer-widgets-outer-wrapper {
+
+    border-bottom: .3rem solid #2F2795;
+}
+
+
 
