@@ -31,6 +31,13 @@ body {
     font-family: "Work Sans", sans-serif;
 }
 
+.post-meta a:focus, .post-meta {
+    font-family: 'PT Sans Caption', sans-serif;
+    color: #2e299576;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
 input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button, .entry-content li,
 .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
     font-weight: 400;
