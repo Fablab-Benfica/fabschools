@@ -38,6 +38,10 @@ body {
     font-weight: 400;
 }
 
+.post-meta a:focus, .post-meta a:hover {
+    color: #2f2995;
+  }
+
 input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button, .entry-content li,
 .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
     font-weight: 400;
