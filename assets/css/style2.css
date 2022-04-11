@@ -17,7 +17,7 @@ h1,h2,h3,
     text-transform: uppercase;
     font-weight: 700;
     font-style: normal;
-    letter-spacing: 0.7em;
+    letter-spacing: 0.01em;
     color: #2f2995;
 }
 
@@ -90,6 +90,7 @@ button, .button, .faux-button, .wp-block-button__link, .wp-block-file .wp-block-
     background: #000000;
     color: #b4c3ca;
 
-
 }
+
+
 
