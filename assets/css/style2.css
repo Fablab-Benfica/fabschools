@@ -26,8 +26,8 @@ body {
     background-color: #fff0c6;
     background-image: url("https://fabschools.pt/images/00_halftone.png");
     background-repeat: repeat;
-    background-size: 0.5vw;
-    opacity: 0.2;
+    background-size: 0.2vw;
+    opacity: 0.02;
     font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
     line-height: 1.6;
     font-weight: 300;
